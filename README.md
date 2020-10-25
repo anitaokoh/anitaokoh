@@ -19,6 +19,7 @@ You can find the rest of the public projects in my [repo](https://github.com/ani
 
 
 I won't call myself a writer, however every now and then, I have a burning need to document my project process. So feel free to call me a documentor
+
 ✍🏾**Check out 3 of my well-done articles below**
 - [Evaluating Unsupervised Sentiment Analysis Tools Using Labeled Data](https://heartbeat.fritz.ai/evaluating-unsupervised-sentiment-analysis-tools-using-labeled-data-8d4bb1336cee)
 - [Python Classes: The Basics](https://heartbeat.fritz.ai/python-classes-the-basics-ae221afcc450)
