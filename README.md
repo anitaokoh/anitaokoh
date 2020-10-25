@@ -31,7 +31,7 @@ Check out the rest on [Medium](https://medium.com/@anitaokoh) and follow me
 
 
 
-For the sake of emphasizes, 🐍**Python is my love language**. I dabble in HTML, CSS, Bash and SQL depending on a project's need.
+For the sake of emphasis, 🐍**Python is my love language**. I dabble in HTML, CSS, Bash and SQL depending on a project's need.
 
 **Some of the tools I am frequently use are**
 - Python libraries (Pandas, Numpy, Matplotlib, Scikit-learn, Spacy)
