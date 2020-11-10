@@ -9,6 +9,7 @@ When I am not completing/experimenting  a project, I am either writing about it 
 
 
 👩🏾‍💻**Although most of  my projects can be found on Github, below is a little of 3 of my proudest project***
+- [Eccommerce Review Topic App](https://github.com/anitaokoh/Topic-modelling-using-Eccommerce-Company-reviews)
 - [City Recommender System](https://github.com/anitaokoh/City-Recommender-Web-App)
 - [Gender Prediction](https://github.com/anitaokoh/Gender-Prediction)
 - [Medium Post Summarizer](https://github.com/anitaokoh/Medium_Summarizer)
