@@ -12,7 +12,6 @@ When I am not completing/experimenting  a project, I am either writing about it 
 - [Eccommerce Review Topic App](https://github.com/anitaokoh/Topic-modelling-using-Eccommerce-Company-reviews)
 - [City Recommender System](https://github.com/anitaokoh/City-Recommender-Web-App)
 - [Gender Prediction](https://github.com/anitaokoh/Gender-Prediction)
-- [Medium Post Summarizer](https://github.com/anitaokoh/Medium_Summarizer)
 
 You can find the rest of the public projects in my [repo](https://github.com/anitaokoh?tab=repositories)
 
