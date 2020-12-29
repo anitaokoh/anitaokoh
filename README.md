@@ -1,4 +1,4 @@
-## I'm Anita Okoh - Operations Manager turn Data Scientist 👋
+## I'm Anita Okoh  👋
 
 #### A little Intro about me
 I am passionate about data insights and how to **convert it to be useful to others** especially when the insights has been transformed into **a product interface**. I am a little  agnostic about what methods I use but I have a strong preferance  using for **Data science/Machine learning methods** as well as minimal software engineering(Devops) to get an interface. I like to think of myself **as technology generalist and outcome-oriented**. This means that although I am passionate about Machine learning solutions, **I am not loyal to just one method/tools of solving a machine learning problem**. It greatly **depends on the problem requirement and what makes more sense**.  This is why I  currently have a growing interesting in learning to use AWS to integrate to some of project goals. 
