@@ -9,10 +9,6 @@ src="https://img.shields.io/github/followers/anitaokoh?logo=github&style=for-the
 #### A little Intro about me
 I am deeply committed to uncovering data-driven insights and leveraging them to create impactful, user-centric products. My approach is methodologically flexible, yet I am inclined to employ **Data Science**, **Machine Learning** and **MLOPS** techniques, complemented by essential **software engineering** practices, particularly in **DevOps**, to develop effective interfaces. As a **technology generalist** focusing on results, I prioritize the most suitable solutions over adherence to any single method or tool in Machine Learning. My decision-making is guided by the specific requirements of the problem and the most logical and efficient means of addressing them. Outside of actively engaging in MLOps use-case projects or contributing to open-source initiatives, I dedicate my time to sharing my knowledge and experiences through writing on **Medium** and mentoring aspiring professionals on educational platforms.
 
-#### Other things to mention
-- Member of the [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/)
-- Member of [Omdena](https://www.omdena.com/)
-- Active Contributor of [SuperDuperDB](https://github.com/SuperDuperDB/superduperdb)
 
 
 
